@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ec32a2c1ea.duyasd.cn/sitemap.xml
